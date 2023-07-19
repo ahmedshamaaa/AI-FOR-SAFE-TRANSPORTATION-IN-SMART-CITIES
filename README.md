@@ -1,11 +1,14 @@
-PROJECT IDEA:
+# here is the link to the demo of the project with documentations
+https://drive.google.com/drive/folders/19dTE1RVR_zggFOBPLRRSc9BbILWMe3PR?usp=drive_link
+
+# PROJECT IDEA:
   The system idea is to detect accidents on the road and the probability
   of it happening in the future through analysis, and in case of
   occurrence of such an event this will inform the appropriate
   authorities and other interested parties with real-time information.
   also detect severity automated.
   
-AI Model Used:
+# AI Model Used:
   -We used the CNN model
   to indicate whether an
   accident occurred or not.
@@ -13,11 +16,11 @@ AI Model Used:
   model to detect Severity
   of the accident
   
-STAKEHOLDERS:
+# STAKEHOLDERS:
   - Normal user
   -Tracker
 
-FUNCTIONAL REQUIREMENTS
+# FUNCTIONAL REQUIREMENTS
   -Ability to detect accidents in real-time
   using various sensor inputs such as
   cameras.
@@ -33,7 +36,7 @@ FUNCTIONAL REQUIREMENTS
   authorities and other interested parties
   for future analysis and reporting.
 
-NON-FUNCTIONAL REQUIREMENTS
+# NON-FUNCTIONAL REQUIREMENTS
   -Performance
   -Reliability
   -Security
@@ -43,7 +46,7 @@ NON-FUNCTIONAL REQUIREMENTS
   -Portability
   -Availability
 
-USED SOFTWARE DEVELOPMENT LIFE CYLCE (SDLC):
+# USED SOFTWARE DEVELOPMENT LIFE CYLCE (SDLC):
   -In our project, we have adopted the Agile Scrum methodology
   for the development of AI-powered solutions in safe
   transportation for smart cities.
@@ -51,7 +54,7 @@ USED SOFTWARE DEVELOPMENT LIFE CYLCE (SDLC):
   foster collaboration, and adapt to evolving requirements
   throughout the project lifecycle.
 
-Security:
+# Security:
   -JWT (JSON web Token) is created
   after authentication.
   -JWT is used to authorize users.
@@ -64,26 +67,26 @@ Security:
   to restrict access of users based on
   authority and authentication status.
 
-DELIVERABLES:
+# DELIVERABLES:
   -Real-time accident detection with
   its severity and optimized traffic
   flow are the key outcomes of our
   AI-powered safe transportation
   solutions for smart cities.
   
-Recommendations:
+# Recommendations:
   -Proactive Incident Detection:
   Developing advanced AI models to
   predict and detect potential accidents in advance, enabling preventive
   measures and timely interventions.
 
-USED TECHNOLOGIES:
+# USED TECHNOLOGIES:
   - Angular - YOLO
   - Router - TensorFlow
   - Spring boot - MySQL
   - Python - Flask
   - Microservices
-Dataset:
+# Dataset:
   -We used dataset provided by
   DELL
 
